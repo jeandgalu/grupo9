@@ -44,7 +44,7 @@ public class ventas {
         System.out.println("Comisión por ventas: S/ " + comision);        
         System.out.println("Sueldo mensual neto es: S/ " + sueldoMensual);
         
-        //cambio realizado
+        //cambio realizado 22-48
         
     }
     
